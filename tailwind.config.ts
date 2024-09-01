@@ -47,7 +47,7 @@ const DarkTheme = generateThemeObject(colors, shadeMapping, true);
 const themes = {
   light: {
     ...LightTheme,
-    white: "ffffff",
+    white: "fffff",
   },
   dark: {
     ...DarkTheme,
